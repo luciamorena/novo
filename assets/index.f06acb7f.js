@@ -1,0 +1,1 @@
+import{R as e,a as t}from"./vendor.0059085a.js";function n(){return e.createElement("div",{style:{display:"flex",justifyContent:"center",alignItems:"center",height:"100vh"}},e.createElement("h1",null,"NEWLAYER"))}t.render(e.createElement(e.StrictMode,null,e.createElement(n,null)),document.getElementById("root"));
